@@ -10,3 +10,6 @@ end
 display_board
 
 
+ def display_board
+ puts "A Tic Tac Toe Board"
+003:1 >  end
